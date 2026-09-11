@@ -1,0 +1,7 @@
+{
+  "name": "Espaço Pet Ipatinga",
+  "description": "Espaço Pet Ipatinga: banho, tosa, creche e hospedagem para seu pet com carinho, cuidado e diversão. Agende pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
